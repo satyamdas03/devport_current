@@ -105,21 +105,27 @@ const Works = () => {
                 <p className="description-box">This is a basic weather app that displays the current weather conditions and forecast for a selected location.</p>
           </ListItem>
           </a>
-          <a href="https://satyamdas03.github.io/a_ball_in_space/"><ListItem>
+          <a href="https://satyamdas03.github.io/a_ball_in_space/">
+            <ListItem>
                 a ball in space <span><Logo src="./img/medicine-ball.png"/></span>
               </ListItem></a>
           <a href="https://satyamdas03.github.io/pacman/"><ListItem>
                 pacman game <span><Logo src="./img/play.png"/></span>
-              </ListItem></a>
+              </ListItem>
+            </a>
               
             <Line src="./img/line.png" />
 
-            <a href="https://satyamdas03.github.io/simon-game/"><ListItem>
+            <a href="https://satyamdas03.github.io/simon-game/">
+              <ListItem>
                 simon game  <span><Logo src="./img/game.png"/></span>
-              </ListItem></a>
-            <a href="https://satyamdas03.github.io/keeper-app/"><ListItem>
+              </ListItem>
+            </a>
+            <a href="https://satyamdas03.github.io/keeper-app/">
+              <ListItem>
                 advanced To do list  <span><Logo src="./img/mood-board.png"/></span>
-              </ListItem></a>
+              </ListItem>
+            </a>
             <a href="https://satyamdas03.github.io/clock/">
             <ListItem>
                 a clock  <span><Logo src="./img/clock.png"/></span>
@@ -128,17 +134,21 @@ const Works = () => {
              
             <Line src="./img/line.png" />
 
-            <a href="https://satyamdas03.github.io/simple-dice-game/"><ListItem>
+            <a href="https://satyamdas03.github.io/simple-dice-game/">
+              <ListItem>
                 dice game <span><Logo src="./img/dice.png"/></span>
-              </ListItem></a>
+              </ListItem>
+            </a>
             <a href="https://satyamdas03.github.io/simple-drum-kit/">
             <ListItem>
                 a drum kit <span><Logo src="./img/drum-kit.png"/></span>
               </ListItem>
             </a>
-              <a href="https://satyamdas03.github.io/netflix-clone-frontend/"><ListItem>
+              <a href="https://satyamdas03.github.io/netflix-clone-frontend/">
+             <ListItem>
                 netfilx frontend app <span><Logo src="./img/netflix.png"/></span>
-              </ListItem></a>
+              </ListItem>
+            </a>
               
             <Line src="./img/line.png" />
 
